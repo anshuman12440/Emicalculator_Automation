@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T01:30:23 IST" name="Default suite" finished-at="2023-06-20T01:32:24 IST" duration-ms="120281">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T01:30:23 IST" name="Default test" finished-at="2023-06-20T01:32:24 IST" duration-ms="120281">
+      <class name="Hackathon.Main">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:17 IST" name="setDriver" finished-at="2023-06-20T01:30:23 IST" duration-ms="6415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:23 IST" name="getURL" finished-at="2023-06-20T01:30:27 IST" duration-ms="3618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="carLoan()[pri:1, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:27 IST" name="carLoan" finished-at="2023-06-20T01:30:27 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+        <test-method signature="loanAmount()[pri:2, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:27 IST" name="loanAmount" finished-at="2023-06-20T01:30:28 IST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanAmount -->
+        <test-method signature="loanInterest()[pri:3, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:28 IST" name="loanInterest" finished-at="2023-06-20T01:30:28 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanInterest -->
+        <test-method signature="loanTerm()[pri:4, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:28 IST" name="loanTerm" finished-at="2023-06-20T01:30:29 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanTerm -->
+        <test-method signature="printTotal()[pri:5, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:29 IST" name="printTotal" finished-at="2023-06-20T01:30:29 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTotal -->
+        <test-method signature="printforOneMonth()[pri:6, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:29 IST" name="printforOneMonth" finished-at="2023-06-20T01:30:30 IST" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printforOneMonth -->
+        <test-method signature="chooseEMICalculators()[pri:7, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:30 IST" name="chooseEMICalculators" finished-at="2023-06-20T01:30:41 IST" duration-ms="10334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseEMICalculators -->
+        <test-method signature="chooseLoanCalculator()[pri:8, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:41 IST" name="chooseLoanCalculator" finished-at="2023-06-20T01:30:43 IST" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseLoanCalculator -->
+        <test-method signature="EmicalculatortextBox()[pri:9, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:43 IST" name="EmicalculatortextBox" finished-at="2023-06-20T01:30:44 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmicalculatortextBox -->
+        <test-method signature="Emicalculatorslider()[pri:10, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:30:44 IST" name="Emicalculatorslider" finished-at="2023-06-20T01:31:03 IST" duration-ms="19081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emicalculatorslider -->
+        <test-method signature="changemonthyearforEMICALCULATOR()[pri:11, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:03 IST" name="changemonthyearforEMICALCULATOR" finished-at="2023-06-20T01:31:04 IST" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changemonthyearforEMICALCULATOR -->
+        <test-method signature="movetoloanamountCalculator()[pri:12, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:04 IST" name="movetoloanamountCalculator" finished-at="2023-06-20T01:31:04 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movetoloanamountCalculator -->
+        <test-method signature="loanamountCalculatortextBox()[pri:13, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:04 IST" name="loanamountCalculatortextBox" finished-at="2023-06-20T01:31:05 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanamountCalculatortextBox -->
+        <test-method signature="loanamountCalculatorslider()[pri:14, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:05 IST" name="loanamountCalculatorslider" finished-at="2023-06-20T01:31:36 IST" duration-ms="31301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanamountCalculatorslider -->
+        <test-method signature="changemonthyearforLOANAMOUNTCALCULATOR()[pri:15, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:36 IST" name="changemonthyearforLOANAMOUNTCALCULATOR" finished-at="2023-06-20T01:31:37 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changemonthyearforLOANAMOUNTCALCULATOR -->
+        <test-method signature="movetoloantenureCalculator()[pri:16, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:37 IST" name="movetoloantenureCalculator" finished-at="2023-06-20T01:31:37 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movetoloantenureCalculator -->
+        <test-method signature="loantenureCalculatortextBox()[pri:17, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:37 IST" name="loantenureCalculatortextBox" finished-at="2023-06-20T01:31:38 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loantenureCalculatortextBox -->
+        <test-method signature="loantenureCalculatorslider()[pri:18, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:31:38 IST" name="loantenureCalculatorslider" finished-at="2023-06-20T01:32:22 IST" duration-ms="44832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loantenureCalculatorslider -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Hackathon.Main@217ed35e]" started-at="2023-06-20T01:32:22 IST" name="closeBrowser" finished-at="2023-06-20T01:32:24 IST" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Hackathon.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
